@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "bmuraro3@gmail.com",
+      "password": "$2a$10$CCTt0t9Vmn7kwKUTFFV6e.eAE5b7wSwyLLIXuMNbZUKxra.cHI0w.",
+      "id": 1
+    },
+    {
+      "email": "teste1@teste.com",
+      "password": "$2a$10$v4eSXmGcW8FCas4baloNeuf8ZhraN/fjshBeF4cvAnDA4rgaMOC5C",
+      "id": 2
+    },
+    {
+      "email": "elaine@teste.com",
+      "password": "$2a$10$NVVC5ov7lfF7xlGSHWZjoOR.5waRPNPu2t571O9jV1Qbj2ttImrwm",
+      "id": 3
+    }
+  ],
+  "learnhttp": {
+    "content": "Olá Mundo"
+  },
+  "journals": [
+    {
+      "id": "1a7eeb40-fb0f-11ed-bb87-1f5048ffd6cb",
+      "content": "testando 123",
+      "created_at": "2023-05-17 15:13:17.154656",
+      "updated_at": "2023-05-17 15:13:17.154656",
+      "userId": 1
+    },
+    {
+      "id": "503fe7c0-fb0f-11ed-bb87-1f5048ffd6cb",
+      "content": "testado com sucesso",
+      "created_at": "2023-05-18 15:17:45.780265",
+      "updated_at": "2023-05-18 15:17:45.780265",
+      "userId": 2
+    },
+    {
+      "id": "826cb280-fce7-11ed-b61a-b1428f43b143",
+      "content": "testando 1 2 3",
+      "created_at": "2023-05-21 23:37:48.508104",
+      "updated_at": "2023-05-27 23:38:15.239102",
+      "userId": 1
+    }
+  ]
+}
